@@ -1,0 +1,2 @@
+# ideal-guide
+main folder
