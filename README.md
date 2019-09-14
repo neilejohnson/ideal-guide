@@ -1,2 +1,2 @@
-# ideal-guide
-main folder
+# This is great!
+Great code lives here.
